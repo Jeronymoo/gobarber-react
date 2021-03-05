@@ -17,7 +17,7 @@
 
 ## Tecnologias
 
-- [React Native](https://reactnative.dev/)
+- [React](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [Yup](https://github.com/jquense/yup)
@@ -32,13 +32,13 @@ GoBarber é uma plataforma em que clientes podem marcar horários com seu cabele
 
 Clone o repositório e faça a instalação dos pacotes do projeto
 ```
-$ git clone https://github.com/Jeronymoo/gobarber-react-native.git
+$ git clone https://github.com/Jeronymoo/gobarber-react.git
 $ cd gobarber-react-native
 $ yarn
 ```
 Com o <a href=https://developer.android.com/studio>android studio</a> instalado, configurado e com o <a href=#>back-end</a> rodando inicie o projeto
 ```
-$ yarn android
+$ yarn start
 ```
 
 ## Licença
